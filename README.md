@@ -1,7 +1,7 @@
 # Visual-Studio-Installer-Project-Ukrainian-
-Ukrainian language support for Microsoft Visual Studio Installer Project (Visual Studio 2017, 2019)
+Ukrainian language support for Microsoft Visual Studio Installer Project (Visual Studio 2017, 2019, 2022)
 
-Підтримка української мови для Microsoft Visual Studio Installer Project (Visual Studio 2017, 2019)
+Підтримка української мови для Microsoft Visual Studio Installer Project (Visual Studio 2017, 2019, 2022)
 
 Для встановлення, потрібно:
 
@@ -23,6 +23,6 @@ Ukrainian language support for Microsoft Visual Studio Installer Project (Visual
 
 У вікні властивостей проекта буде написано `Localization` `Neutral`, але діалоги будуть завантажені українізовані, та мова msi-пакета буде Українська.
 
-Якщо виникне потреба змінити переклад, це можливо зробити за допомогою програми Orca, яка входить до складу Windows SDK, який поставляється з VS 2019:
+Якщо виникне потреба змінити переклад, це можливо зробити за допомогою програми Orca, яка входить до складу Windows SDK, який поставляється з VS:
 `{disk}:\Program Files (x86)\Windows Kits\10\bin\{version}\x86\Orca-x86_en-us.msi`
 
